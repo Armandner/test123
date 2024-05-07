@@ -1,7 +1,4 @@
 
 git add .
 git commit -m "111"
-git push << EOF
-guariglialungwitz301@gmail.com
-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
-EOF
+git push
